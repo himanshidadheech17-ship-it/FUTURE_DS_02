@@ -1,4 +1,6 @@
 # FUTURE_DS_02
+//This project focuses on analyzing customer churn and retention patterns//
+using Excel-based data analysis techniques.
 Customer Retention &amp; Churn Analysis
 # Customer Retention & Churn Analysis
 
@@ -22,3 +24,5 @@ To analyze customer churn patterns and identify factors affecting retention.
 ## Files Included
 - Excel dataset with analysis
 - Report document
+## Dataset
+- Simulated customer dataset with subscription details
